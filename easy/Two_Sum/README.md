@@ -27,9 +27,9 @@ You can return the answer in any order.
 
 **Constraints:**
 
-* `2 <= nums.length <= 10<sup>4</sup>`
-* `-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>`
-* `-10<sup>9</sup> <= target <= 10<sup>9</sup>`
+* `2 <= nums.length <= 104`
+* `-109 <= nums[i] <= 109`
+* `-109 <= target <= 109`
 * **Only one valid answer exists.**
 
 **Follow-up:** Can you come up with an algorithm that is less than `O(n<sup>2</sup>)` time complexity?
