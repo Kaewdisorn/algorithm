@@ -1,3 +1,17 @@
+// Two Sum - Optimized Solution
+// Time Complexity: O(n) - single pass through array
+// Space Complexity: O(n) - HashMap storage
+
+// Principles
+// Given: x + y = target
+// Known: x (current number)
+// Find: y
+
+// Solution:
+// x + y = target
+// y = target - x  (subtract x from both sides)
+
+
 function main(): void {
     // Data 1
     const nums1: number[] = [2, 7, 11, 15];
