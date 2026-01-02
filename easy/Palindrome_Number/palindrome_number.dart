@@ -1,3 +1,7 @@
+/******************************************************/
+/* Palindrome Number - Brute Force Solution           */
+/* Time Complexity: O(n) - single pass through digits */
+/******************************************************/
 void main() {
   isPalindrome(int input) {
     if (input < 0) {
